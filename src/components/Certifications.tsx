@@ -7,6 +7,10 @@ const certifications = [
   'Data Science Orientation from coursera',
   'Fundamentals of Deep Learning from nvidia',
   'Simple Staistics for User Experience Projects from Linkedin Learning',
+  'Building Generative AI Skills for Developers by LinkedIn Learning',
+  'Prompt Engineering Skills by LinkedIn Learning',
+  'MongoDB Node.js Developer',
+  'Digital Application Fundamentals (STEM) by Future Skills Prime',
 ];
 
 export const Certifications = () => {

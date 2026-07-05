@@ -7,6 +7,7 @@ const skillCategories = [
     color: 'primary',
     skills: [
       { name: 'Java', level: 80 },
+      { name: 'SAP ABAP', level: 70 },
       { name: 'Python', level: 70 },
       { name: 'JavaScript', level: 40 },
       { name: 'SQL', level: 70 },
